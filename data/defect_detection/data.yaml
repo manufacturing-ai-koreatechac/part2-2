@@ -1,0 +1,9 @@
+names:
+- scratch
+- contamination
+- crack
+nc: 3
+path: ../data/defect_detection
+test: images/test
+train: images/train
+val: images/val
